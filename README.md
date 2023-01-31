@@ -1,5 +1,3 @@
-<snippet>
-  <content><![CDATA[
 # hello-world
 # ${1: Misc Projects}
 
@@ -7,6 +5,3 @@ This repository contains various projects and ideas that do not fall under a spe
 
 ##History
 Created 1/31/2023.
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
